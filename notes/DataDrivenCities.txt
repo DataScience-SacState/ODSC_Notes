@@ -1,1 +1,19 @@
-ayy lmao
+//Data Driven Cities
+//CIO city of Palo Alto
+
+We're not ready for the cities of the future
+    Need to create a new city operating system
+
+More gvt data:
+    USASPENDING.GOV
+    future crime prediction
+    palo alto prediction pavement:
+        0-100 (pavement score)
+        stanford students built a web app to do this
+    employee salary
+    grafitti
+    predictive prediction?
+    
+
+    
+
