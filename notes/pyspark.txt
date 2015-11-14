@@ -1,0 +1,34 @@
+//SPARK
+what is spark?
+    distributed computational engine
+    spark > mapreduce
+
+spark process:
+    read file
+    go to HDFS
+        go to RDD
+            filter
+                count (no transfers happen until spark expecutes)
+    spark execution model
+        driver -> worker node
+               -> worker node
+
+//PYSPARK, PYTHON FTW
+pyspark
+
+    local 
+        (python spark client)
+        py4j (python for java, java sparkContext)
+        python spark context
+
+    cluster
+
+    pickles?
+        turn our pickle functions into bytes
+
+best practices for writing pyspark
+    pyspark slower than corespark
+        minimize python -> jvm movements
+    data frames
+
+
