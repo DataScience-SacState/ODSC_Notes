@@ -1,2 +1,20 @@
 //Session 1
 //Combining Human Intelligence and Aritifical Intelligence
+
+company- crowdflower
+twitter handle- l2k
+
+Real World Data-
+    what classifiers are most effective?
+    what makes classifiers more effective?
+        More data!!!!!!
+        cleaner data (90%,95%,100%)
+            going from 90-95 accurate is as effective as getting twice as much data
+        CLEAN YOUR DATA!!!
+
+Active Learning-
+    how do you pick the training data you show your algorithim
+
+Crowd Flower-
+    high quality open data sets
+
