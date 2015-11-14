@@ -1,0 +1,22 @@
+//links
+/*
+~~~~~~~~  password for rosette
+rosette: https://developer.rosette.com/?
+git: https://github.com/cgmack/odscwest
+slides: https://www.dropbox.com/s/eoiquaofeu7tr4r/Intro%20to%20Text%20Analytics.pdf?dl=0
+*/
+
+what is text analytics
+    high quality info from text
+    EG:
+        nlp
+        hlt - human langugae technology
+        text mining
+    tasks:
+        
+where to begin?
+    what are you trying to solve?
+    what data are you working with?
+
+what are we working with
+    nltk
