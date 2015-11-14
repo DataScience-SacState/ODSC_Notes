@@ -17,4 +17,6 @@ Active Learning-
 
 Crowd Flower-
     high quality open data sets
+    //use this for the club?
+
 
