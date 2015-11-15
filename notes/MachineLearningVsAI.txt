@@ -1,0 +1,15 @@
+//Dan
+//cs + ai at UIUC & USC
+//data scientist at AT&T
+
+Machine learning and AI, the difference between knoweldge and action
+
+example:
+    forecasting:
+        airbnb using forecasting to predict what price to charge
+    recommender:
+        netflix
+        simmered greedy optimization for co-clustering
+
+
+

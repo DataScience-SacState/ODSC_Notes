@@ -12,3 +12,35 @@ Netflix
         microservices
     ~40 code pushes/day
 
+Archiecture:
+    AWS
+    hadoop
+        looking into spark, but hadoop does the job until spark evolves
+        S3 rather than Hadoop
+            10x slower vs HDFS
+        pig on hadoop for processing
+    suro (switching to kafka) -> S3
+    cassandra -> AEGISHUS -> S3
+        AEGISHUS
+            integrated with pig
+    S3 -> teradata
+        no processing, maintaining data for visualization (tabaleu)
+    S3-> Sting (pivot table)
+    S3<-> Presto
+        presto
+            don't need to spin up JVMs each time
+    S3 -> druid
+        druid (a/b testing)
+    S3 <-> Spark
+    SO MUCH MORE CAN'T KEEP UP
+
+    METACAT and The Big Data API (aka Kragle)
+        metadata catalog-
+            a service to maintain all metdata
+
+Anamoly Detection:
+    arbitrarly large matrix partition
+    map it to smaller consistent matrices
+        m = O(10^10) for a (10x10)
+        m = O(10^2) for a p=O(10)
+    

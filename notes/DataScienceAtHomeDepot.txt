@@ -37,9 +37,9 @@ areas of focus
                 hd.com/homedepot/facebok/twitter etc. etc.
                 track pages
             context:
-                
     
-    
-    search
+    search:
+       deep learning (search)
+       nlp:
 
     reviews and live chats
