@@ -60,3 +60,12 @@ write testable code
         make it static
     sepearte feature generization or data standarization from your modeling
 
+write serializable code
+    functions and the contexts they need to execute must be sieralizable
+    keep functions simple. i suggest static methods
+    some things are impossiblish
+        db connections (shared) _=> use mapPartitions instead
+
+testing with sparktestingbase
+    provdes a sparkcontext
+    quiets py4j

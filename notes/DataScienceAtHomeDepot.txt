@@ -1,0 +1,45 @@
+//data science and homedepot because R was full gg.
+
+interconnected retail:
+    augmented reality -> 25% increase in sales
+
+our big data challenge:
+    volume
+        scale to billions of visits/orders
+    velocity
+        react in real time
+    variety
+        analyze events, reviews, chats..
+    veracity
+        resolve consistency and duplication
+
+areas of focus
+    recommendation & personalization
+        four c's:
+            customer:
+                small % logged in customer
+                identifable visitor
+                    fewer cookies
+                unrecognized customer
+                    first time
+                        geo + weather
+                            inventory planning for disasters
+            content: 
+                product recommendations
+                    frequently bought together
+                        logs
+                    alternatives
+                    accessories
+                content recommendations
+                site experience/messaging
+                offer/promotion
+           conduits:
+                hd.com/homedepot/facebok/twitter etc. etc.
+                track pages
+            context:
+                
+    
+    
+    search
+
+    reviews and live chats
