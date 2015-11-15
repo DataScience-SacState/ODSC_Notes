@@ -1,2 +1,23 @@
 //how to build and operationalize data science solutions with cortana analytics
 
+//cortana analytics suite
+    transform data into intelligent action
+
+//session objectives
+    -use azure ml studio for predictive analytics
+//takeaway 
+    -
+
+//steps
+    1. clone repo (already did it)
+    2. sign in with azure ml studio (you can use it with your sac state email)
+
+//excercises
+    1. import data
+    2. binary classification
+    3. R scripts
+    4. creating a web service
+    5. clustering
+    optional.
+       
+
