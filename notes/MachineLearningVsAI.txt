@@ -10,6 +10,13 @@ example:
     recommender:
         netflix
         simmered greedy optimization for co-clustering
+so?
+    macine learning is based on learning
+    artiical intelligence is based on action
 
+today's agenda
+    machine's reasoning about actions
+    ml & action
+    action and & ml
 
 

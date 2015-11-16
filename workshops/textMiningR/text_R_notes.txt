@@ -1,0 +1,41 @@
+//text mining
+
+//what is text mining
+    pulling/ideentifying text
+
+//workflow
+    1. problem defintion
+    2. id text souces
+    3. text organization
+    4. feature extraction
+    5. analytics
+    6. reach insight/recommendation
+
+//approaches
+    1. semantic using syntatic parsing
+    2. bag of words
+    
+    eg.
+        "Lebron James hit a tough shot"
+
+//some challenges
+    compound words (tokenization)
+    changes meaning
+        "not bad" vs "bad"
+    disambuation
+    sarcasm
+        "i like it.. not"
+    cultural differnces
+        "it's wicked good"
+
+//sources
+    books
+    pdfs
+    blogs
+    customer records
+    etc...
+
+    need to understand where you're getting some text from
+
+//demo time!
+
